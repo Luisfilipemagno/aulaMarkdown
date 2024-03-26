@@ -42,10 +42,13 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
  1. Entrevista: esta técnica resume-se em “conversas” realizadas com o usuário (entrevistado) para levantar os requisitos do sistema a ser desenvolvido.
 
     NUMERO DA UC | NOME DA UC | DESCRIÇÃO 
-    -------------|----------- |-----------
-    UC - 01
-    ------------ | ---------- | ----------
-    UC - 02      | ---------- | ----------
+    -------------|----------- |----------
+    UC - 01      |            |
+    -------------|------------|----------
+    UC - 02      |            |
+    -------------|------------|----------
+    UC - 04      |            |
+    -------------|------------|----------
     
             
               
