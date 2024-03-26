@@ -44,13 +44,11 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
     NUMERO DA UC | NOME DA UC | DESCRIÇÃO 
     -------------|----------- |----------
     UC - 01      |            |
-    -------------|------------|----------
     UC - 02      |            |
-    -------------|------------|----------
+    UC - 03      |            |
     UC - 04      |            |
-    -------------|------------|----------
-    
-            
+                 |            |
+              
               
     
 
